@@ -1,0 +1,437 @@
+[
+    {
+      "id": 1,
+      "name": "Mum Drinking Water",
+      "category": "Drinks",
+      "description": "2 ltr",
+      "price": 40,
+      "image": "https://i.ibb.co/S78SxDk/mum-drinking-water-2-ltr.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mum Drinking Water",
+      "category": "Drinks",
+      "description": "500 ml",
+      "price": 20,
+      "image": "https://i.ibb.co/D93734q/mum-drinking-water-500-ml.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Super Fresh Drinking Water",
+      "category": "Drinks",
+      "description": "2 ltr",
+      "price": 40,
+      "image": "https://i.ibb.co/g9DDmTS/super-fresh-drinking-water-2-ltr.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kinley Drinking Water",
+      "category": "Drinks",
+      "description": "2 ltr",
+      "price": 40,
+      "image": "https://i.ibb.co/YN61CP4/kinley-drinking-water-2-ltr.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Aquafina Drinking Water",
+      "category": "Drinks",
+      "description": "1.5 ltr",
+      "price": 35,
+      "image": "https://i.ibb.co/nkZs8sy/aquafina-drinking-water-15-ltr.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Pran Frooto Mango Fruit Drink",
+      "category": "Drinks",
+      "description": "1 ltr",
+      "price": 90,
+      "image": "https://i.ibb.co/kmv9f9N/pran-frooto-mango-fruit-drink-1-ltr.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Latina 100 % Juice (Apple)",
+      "category": "Drinks",
+      "description": "1 ltr",
+      "price": 200,
+      "image": "https://i.ibb.co/m6pq6d2/latina-100-juice-apple-1-ltr.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Frutika Mango Juice",
+      "category": "Drinks",
+      "description": "500 ml ",
+      "price": 50,
+      "image": "https://i.ibb.co/m6JTp5G/frutika-mango-juice-500-ml.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Amul Kool Kesar Pet Bottle",
+      "category": "Drinks",
+      "description": "180 ml",
+      "price": 105,
+      "image": "https://i.ibb.co/DDdCFtw/amul-kool-kesar-pet-bottle-180-ml.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Sprite",
+      "category": "Drinks",
+      "description": "2.5 ltr",
+      "price": 130,
+      "image": "https://i.ibb.co/8xYz73N/sprite-225-ltr.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Pepsi Can",
+      "category": "Drinks",
+      "description": "250 ml",
+      "price": 50,
+      "image": "https://i.ibb.co/Pgyh1ck/pepsi-can-250-ml.jpg"
+    },
+    {
+      "id": 12,
+      "name": "RC Q Lemon Pet",
+      "category": "Drinks",
+      "description": "250ml",
+      "price": 25,
+      "image": "https://i.ibb.co/Kz8nrFm/rc-q-lemon-pet-250-ml-1-11.jpg"
+    },
+
+    {
+      "id": 13,
+      "name": "Star Flower Masala",
+      "category": "Cooking",
+      "description": "50 gm",
+      "price": 140,
+      "image": "https://i.ibb.co/H23PKT9/evkfwqpdsevxzlrjqgu3.jpg"
+    },
+  
+    {
+      "id": 14,
+      "name": "White Pepper (Sada Gol Morich)-Whole",
+      "category": "Cooking",
+      "description": "50 gm",
+      "price": 80,
+      "image": "https://i.ibb.co/98fC693/juohrn3o1hngnt8caa3o.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Mustered Seed (Shorisha) RED",
+      "category": "Cooking",
+      "description": "100 gm",
+      "price": 25,
+      "image": "https://i.ibb.co/5LcHGbF/r6ztihiykghns03fqsth.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Green Cardamom (Sobuj Elachi) Whole",
+      "category": "Cooking",
+      "description": "50 gm",
+      "price": 170,
+      "image": "https://i.ibb.co/TBtF1xB/waxaqri3ahvvbvspbimw.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Cinnamon (Daruchini)",
+      "category": "Cooking",
+      "description": "100 gm",
+      "price": 65,
+      "image": "https://i.ibb.co/R9cbpyQ/vpsee5vbgfvrtyij99ey.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Mace Whole Jaytree",
+      "category": "Cooking",
+      "description": "50 gm",
+      "price": 180,
+      "image": "https://i.ibb.co/DrYy7bL/tmvydrd23raz1ajvw0ud.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Bay Leaf (Tejpata)",
+      "category": "Cooking",
+      "description": "100 gm",
+      "price": 30,
+      "image": "https://i.ibb.co/ss5PXHK/gvdlw3ymv8i10aqa0hiv.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Fenugreek (Methi) Seed",
+      "category": "Cooking",
+      "description": "100 gm",
+      "price": 20,
+      "image": "https://i.ibb.co/JRMJfjY/ljufxbnaa0ml4gqh78z3.jpg"
+    },
+    {
+      "id": 21,
+      "name": "ACI Pure Salt",
+      "category": "Cooking",
+      "description": "500 gm",
+      "price": 22,
+      "image": "https://i.ibb.co/0jGVSrz/aci-pure-salt-500-gm.jpg"
+    },
+    {
+      "id": 22,
+      "name": "ACI Pure Salt",
+      "category": "Cooking",
+      "description": "1 Kg",
+      "price": 42,
+      "image": "https://i.ibb.co/0jGVSrz/aci-pure-salt-500-gm.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Akher Chini (Sugar) ± 50 gm",
+      "category": "Cooking",
+      "description": "1 Kg",
+      "price": 150,
+      "image": "https://i.ibb.co/4VD3b80/akher-chini-sugar-50-gm-1-kg.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Fresh Super Premium (Vacuum) Salt",
+      "category": "Cooking",
+      "description": "1 Kg",
+      "price": 42,
+      "image": "https://i.ibb.co/CM6K41N/fresh-super-premium-vacuum-salt-1-kg.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Molla Super Salt",
+      "category": "Cooking",
+      "description": "1 Kg",
+      "price": 42,
+      "image": "https://i.ibb.co/MDQG7GS/molla-super-salt-1-kg.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Fresh Fortified Soyabean Oil",
+      "category": "Cooking",
+      "description": "5 ltr",
+      "price": 920,
+      "image": "https://i.ibb.co/3NVdxH9/fresh-fortified-soyabean-oil-5-ltr.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Teer Fortified Soyabean Oil",
+      "category": "Cooking",
+      "description": "5 ltr",
+      "price": 960,
+      "image": "https://i.ibb.co/8jN2G0F/teer-fortified-soyabean-oil-5-ltr.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Duck Eggs (Hasher Dim)",
+      "category": "Cooking",
+      "description": "6 pcs",
+      "price": 110,
+      "image": "https://i.ibb.co/C248DHf/cns1bplimcuzfl0cl6b12222.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Pran Hot Tomato Sauce",
+      "category": "Cooking",
+      "description": "1 Kg",
+      "price": 250,
+      "image": "https://i.ibb.co/3CLYWWR/64c0b33914ddc1690350393.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Nazirshail Rice Premium (Half Boiled)",
+      "category": "Cooking",
+      "description": "5 Kg",
+      "price": 420,
+      "image": "https://i.ibb.co/X5Cq1Zx/nazirshail-rice-premium-half-boiled-50-gm-5-kg.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Chinigura Rice Premium",
+      "category": "Cooking",
+      "description": "1 Kg",
+      "price": 140,
+      "image": "https://i.ibb.co/kgJM2np/chinigura-rice-premium-1-kg.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Chola Boot (Chick Peas) Dal",
+      "category": "Cooking",
+      "description": "1Kg ",
+      "price": 110,
+      "image": "https://i.ibb.co/b3nsyzs/chola-boot-chick-peas-dal-1-kg.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Mug Dal",
+      "category": "Cooking",
+      "description": "1 Kg",
+      "price": 130,
+      "image": "https://i.ibb.co/4FvK5Dh/mug-dal-500-gm.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Pran Moshur Dal (Deshi)",
+      "category": "Cooking",
+      "description": "1 Kg",
+      "price": 170,
+      "image": "https://i.ibb.co/8m50Wps/pran-moshur-dal-deshi-500-gm.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Savlon Twinkle Baby Pant Diaper XXL 14-25 kg",
+      "category": "Baby Care",
+      "description": "24 pcs",
+      "price": 890,
+      "image": " https://i.ibb.co/TcMBfst/64bfb17bebf7e1690284411.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Nestlé Cerelac 3 Wheat & 4 Fruits (10 M +)",
+      "category": "Baby Care",
+      "description": "400 gm",
+      "price": 450,
+      "image": " https://i.ibb.co/XCynMsR/64bfb2fde89451690284797.jpg"
+    },
+    {
+      "id": 37,
+      "name": "NeoCare Baby Wipes",
+      "category": "Baby Care",
+      "description": "120 pcs",
+      "price": 250,
+      "image": "https://i.ibb.co/bNVZwyS/64bfb3d08fd9d1690285008.jpg "
+    },
+    {
+      "id": 38,
+      "name": "Golden Harvest Mega Deshi Paratha 1600 gm",
+      "category": "Frozen Food",
+      "description": "20 pcs",
+      "price": 360,
+      "image": "https://i.ibb.co/y8SdMMC/golden-harvest-mega-deshi-paratha-1600-gm-20-pcs.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Golden Harvest Chicken Sausage",
+      "category": "Frozen Food",
+      "description": "340 gm",
+      "price": 260 ,
+      "image": "https://i.ibb.co/Mp1QBV2/golden-harvest-chicken-sausage-340-gm.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Doux Chicken Franks Original",
+      "category": "Frozen Food",
+      "description": "340 gm",
+      "price": 275,
+      "image": "https://i.ibb.co/w6DrfVz/doux-chicken-franks-original-340-gm.jpg"
+    },
+    
+
+
+    {
+      "id": 41,
+      "name": "Kacha Pepe (Green Papaya) ± 70 gm",
+      "category": "Fruits and Vegetables",
+      "description": "1 Kg",
+      "price": 70,
+      "image": "https://i.ibb.co/Lzjjb5M/kacha-pepe-green-papaya-70-gm-14-kg.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Green Apple ± 50 gm",
+      "category": "Fruits and Vegetables",
+      "description": "1 Kg",
+      "price": 320,
+      "image": "https://i.ibb.co/WBGDFLN/Screenshot-101.png"
+    },
+    {
+      "id": 43,
+      "name": "Cherry Pineapple (Cherry Anaros)",
+      "category": "Fruits and Vegetables",
+      "description": "1 pc",
+      "price": 40,
+      "image": "https://i.ibb.co/Kj66PtF/cherry-pineapple-cherry-anaros-1-pcs.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Boro Alu (Big Diamond Potato) ± 50 gm",
+      "category": "Fruits and Vegetables",
+      "description": "1 Kg",
+      "price": 45,
+      "image": "https://i.ibb.co/t4jNbtZ/141151-full.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Roshun (Garlic Imported) ± 25 gm ",
+      "category": "Fruits and Vegetables",
+      "description": "500 gm",
+      "price": 130,
+      "image": "https://i.ibb.co/TTnWHMF/roshun-garlic-imported-25-gm-500-gm.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Banana",
+      "category": "Fruits and Vegetables",
+      "description": "12 pcs",
+      "price": 60,
+      "image": "https://i.ibb.co/1b8p5cK/banane-cavendish-large.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Sobuj Angur (Green Grapes) ± 12 gm",
+      "category": "Fruits and Vegetables",
+      "description": "250gm",
+      "price": 140,
+      "image": "https://i.ibb.co/y6zpYYn/Screenshot-100.png"
+    },
+    {
+      "id": 48,
+      "name": "Daab (Green Coconut)",
+      "category": "Fruits and Vegetables",
+      "description": "1 pc",
+      "price": 120,
+      "image": "https://i.ibb.co/xgtwHmP/Screenshot-99.png"
+    },
+    {
+      "id": 49,
+      "name": "Hat Macarioni Penne Pasta",
+      "category": "Cooking",
+      "description": "500 gm",
+      "price": 100,
+      "image": "https://i.ibb.co/PDRPBjk/Screenshot-78.png"
+    },
+    {
+      "id": 50,
+      "name": "Alfa mayonnaise",
+      "category": "Cooking",
+      "description": "250 gm",
+      "price": 100,
+      "image": "https://i.ibb.co/SwH9Fpx/Screenshot-76.png"
+    },
+    {
+      "id": 51,
+      "name": "Jayfal (Nutmeg) Whole",
+      "category": "Cooking",
+      "description": "5 pcs",
+      "price": 60,
+      "image": "https://i.ibb.co/s3wFFPJ/bgo9ndqvilnji1hh6gg2.jpg"
+    }
+    
+  ]
+  
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+ 
+  
+   
